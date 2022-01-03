@@ -24,4 +24,4 @@
 | BVR  | 老子、庄子、尼采、毛泽东 |  |
 | 能力  | 算法、内核、云原生、控制论、系统之美、思考快与慢、如何阅读一本书 |  |
 | 行为  | 心法、干法、原则 |  |
-| 环境  | 咨询报告<https://www.gartner.com/cn> 、https://zhuanlan.zhihu.com/p/65914089、论文|  |
+| 环境  | [gartner](https://www.gartner.com/cn) 、[关注网站](https://zhuanlan.zhihu.com/p/65914089)、论文|  |
